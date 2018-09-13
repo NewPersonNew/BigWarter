@@ -11,3 +11,5 @@ python code for study with everybody and make me get up
     
   - 使用爬虫流程跟scrapy_redis的操作相同，去重集合会在我们的布隆过滤器交互的redis里。
   - 我的py_bloomfilter.py跟bloom_dupefilter.py路径放置如下图：
+    
+    ![image](https://github.com/NewPersonNew/BigWarter/blob/master/screenshots/image1.png)
