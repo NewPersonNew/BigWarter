@@ -15,5 +15,6 @@ python code for study with everybody and make me get up
     ![image](https://github.com/NewPersonNew/BigWarter/blob/master/screenshots/image1.png)
 ### 滑块验证码破解
 - 代码hua_kuai.py
-- 来自于网易验证码 ![image](http://necaptcha.nosdn.127.net/6346d2badb514049a16aa3c086b9b6f0.jpg)
-- 执行代码返回的是滑块缺口左侧行坐标，之后可以使用自动化软件(selenium)去实现自动化滑懂
+- 来自于网易验证码 
+- ![image](http://necaptcha.nosdn.127.net/6346d2badb514049a16aa3c086b9b6f0.jpg)
+- 执行代码返回的是滑块缺口左侧行坐标，之后可以使用自动化软件(selenium)去实现自动化滑动
