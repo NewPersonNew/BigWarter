@@ -13,3 +13,5 @@ python code for study with everybody and make me get up
   - 我的py_bloomfilter.py跟bloom_dupefilter.py路径放置如下图：
     
     ![image](https://github.com/NewPersonNew/BigWarter/blob/master/screenshots/image1.png)
+### 滑块验证码破解
+- 代码hua_kuai.py
